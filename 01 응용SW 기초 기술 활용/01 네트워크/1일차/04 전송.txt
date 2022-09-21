@@ -1,0 +1,6 @@
+1
+End-to-End 데이터 신뢰성 보장을 위한 각종 작업
+
+2
+TCP	: 연결지향		/ 신뢰성 ↑  / 속도 ↓ / HTTP,FTP,SSH..
+UDP 	: 비연결지향	/ 신뢰성 ↓  / 속도 ↑ / DNS,TFTP,SNMP..
