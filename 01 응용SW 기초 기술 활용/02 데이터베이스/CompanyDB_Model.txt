@@ -1,0 +1,9 @@
+1:N
+DB : CompanyDB
+Table
+
+tbl_employee
+id(PK),name,deptCode(FK)
+
+tbl_department
+deptCode(PK),deptname
