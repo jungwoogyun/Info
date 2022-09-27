@@ -1,0 +1,10 @@
+DB : BookDB
+
+Table
+
+tbl_member	: memberId(PK),memberName,Phone
+tbl_order	: orderId(PK),memberId(FK),bookCode(FK)
+tbl_book	: bookCode(PK),bookName,publisher
+
+Forward Engineer 로 변환해서 확인
+BOOKDB_Model.mwb 로 저장
